@@ -17,18 +17,18 @@ npm/yarn up-to-date
 
 ### Game Content
 1. We support all basic gods. Note that if you are new, you can start from "Man".
-![Santorini1](https://raw.githubusercontent.com/CMU-17-214/hw3-santorini-wfyhehe/main/santorini1.png?token=AGFZBBYU3YEL6QPI3ZMTYF3BRIC44)
+![Santorini1](https://github.com/QueenieLiuuu/SantoriniBoardGame/blob/master/santorini1.png)
 
 2. Clean and easy-to-use UI. On the left-bottom there are buttons for god powers.  
 e.g. Hermes is very free so he can choose move/build/pass.
-![Santorini2](https://raw.githubusercontent.com/CMU-17-214/hw3-santorini-wfyhehe/main/santorini2.png?token=AGFZBBZMMZIBXKUJ42MPCOTBRIDLK)
+![Santorini2](https://github.com/QueenieLiuuu/SantoriniBoardGame/blob/master/santorini2.png)
 
 3. The number on the cell shows the level, "X" means a dome. Right part are infomations and 
    Undo/Redo buttons (very smooth).
-![Santorini3](https://raw.githubusercontent.com/CMU-17-214/hw3-santorini-wfyhehe/main/santorini3.png?token=AGFZBB4RB35MMOLFEBGX6MTBRIDWO)
+![Santorini3](https://github.com/QueenieLiuuu/SantoriniBoardGame/blob/master/santorini3.png)
 
 4. Finally we got a winner.
-![Santorini4](https://raw.githubusercontent.com/CMU-17-214/hw3-santorini-wfyhehe/main/santorini4.png?token=AGFZBB6G2KZ4I45LFHGLINDBRIEHA)
+![Santorini4](https://github.com/QueenieLiuuu/SantoriniBoardGame/blob/master/santorini4.png)
 
 #### God cards:
 Apollo, Artemis, Athena, Atlas, Demeter, Hephaestus, Hermes, Minotaur, Pan, Prometheus
